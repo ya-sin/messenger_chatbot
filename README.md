@@ -26,7 +26,9 @@ pip install -r requirements.txt
 #### Secret Data
 
 `VERIFY_TOKEN`, and `ACCESS_TOKEN` in local.py **MUST** be set for webhook connection.
+
 `client_id`, `client_secret`, `album_id`, `access_token`, and `refresh_token` in local.py **MUST** be set for uploading to imgur.
+
 The json document `serviceAccount.json` also **MUST** be set for firebase.
 Otherwise, you might not be able to run your code.
 
