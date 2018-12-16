@@ -3,7 +3,7 @@ TIMING BOT
 
 A Facebook messenger bot based on a finite state machine
 
-The goal is to implement the service on the [timing facebook page](https://facebook.com/)
+The goal is to implement the service on the [timing facebook page](https://www.facebook.com/timingdance/)
 
 A bot for doing some promotional dance activity
 
