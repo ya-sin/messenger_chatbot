@@ -34,15 +34,23 @@ Otherwise, you might not be able to run your code.
 
 #### Get ACCESS_TOKEN
 create a facebook page
+
 Login with your account on facebook develop
+
 Create a messenger app
+
 Get `ACCESS_TOKEN` from messenger app
+
 #### Get local.py done
 Create an app on your imgur account,then you will get your `client_id` and `client_secret`
+
 Click into the album, getting your `album_id` from the end of line in URL
+
 Run `auth.py` for getting `access_token` and `refresh_token`
+
 #### How to `serviceAccount.json`
 Create a firebase account.
+
 Go to firestore\database,then you can download the json from the `rule`
 #### Run Locally
 You can either setup https server or using `ngrok` as a proxy.
