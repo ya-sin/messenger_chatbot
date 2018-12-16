@@ -105,6 +105,7 @@ The initial state is set to `fake`.
 
 - User text ANYTHING exclude the above command -> give you a guid again
 `user` state is triggered to `advance` to `state1` state, it will `go_back` to `user` state after the bot replies corresponding message.
+---
 
 * fake
 	* Input: ANYTHING
