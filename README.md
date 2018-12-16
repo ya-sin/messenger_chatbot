@@ -7,6 +7,12 @@ The goal is to implement the service on the [timing facebook page](https://www.f
 
 A bot for doing some promotional dance activity
 
+You can leave some information about the dance event that you really hope everyone know it or simply just want to share!
+
+And you can get the infornation about the dance event take place in this month or on the specific day.
+
+This bot will make a post automaticlly,so making it easier for manage a page!!
+
 ## Setup
 
 ### Prerequisite
