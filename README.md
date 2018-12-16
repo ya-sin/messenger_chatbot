@@ -76,22 +76,31 @@ python3 app.py
 The initial state is set to `fake`.
 
 - User text anything -> get a warm welcom
+
 `fake` state is triggered to `gotouser` to `user` state
 
 - User text `about`/ press the `about` button -> get information about the timing bot
+
 `user` state is triggered to `advance` to `state2` state, it will `go_back` to `user` state after the bot replies corresponding message.
 
 - User text `post`/ press the `post` button -> get start on post procedure
 `user` state is triggered to `advance` to `state3` state
+
 `state3` state is triggered to `getname` to `class` state
+
 `class` state is triggered to `getclass` to `date` state
+
 `date` state is triggered to `getdate` to `time` state
+
 `time` state is triggered to `gettime` to `location` state
+
 `location` state is triggered to `getlocation` to `website` state
+
 `website` state is triggered to `getwebsite` to `makepost` state, it will `go_back` to `user` state after the bot replies corresponding message.
 
 - User text `getinfo`/ press the `getinfo` button -> get information stored in firebase based on the date you text
 `user` state is triggered to `advance` to `state4` state
+
 `state4` state is triggered to `getinput` to `getpost` state, it will `go_back` to `user` state after the bot replies corresponding message.
 
 - User text ANYTHING exclude the above command -> give you a guid again
