@@ -144,6 +144,9 @@ The initial state is set to `fake`.
 	* Input: ANYTHING
 		* Reply: image + "This is the post will be show!! if has any problem, feel free to contact us!" +  postback button(about,post,getinfo)
 
+
+
+
 * state4
 	* Input: 1
 		* Reply: image + "Here are all the events!!Have a nice day!^^" + postback button(about,post,getinfo)
