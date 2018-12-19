@@ -1,6 +1,8 @@
 # TOC Project 2019
 TIMING BOT
 
+[Heroku version](https://github.com/ya-sin/timing-bot)(some bugs)
+
 A Facebook messenger bot based on a finite state machine
 
 The goal is to implement the service on the [timing facebook page](https://www.facebook.com/timingdance/)
@@ -76,7 +78,7 @@ python3 app.py
 ```
 
 ## Finite State Machine
-![fsm](./fsm.png)
+![fsm](./readme_img/fsm.png)
 
 ## Usage
 The initial state is set to `fake`.
@@ -152,3 +154,15 @@ The initial state is set to `fake`.
 		* Reply: image + "Here are all the events!!Have a nice day!^^" + postback button(about,post,getinfo)
 	* Input: 9/22
 		* Reply: image + "Here are all the events!!Have a nice day!^^" + postback button(about,post,getinfo)
+## Demo with some examples
+- welcome
+![welcome](./readme_img/welcom.png)
+- about
+![about](./readme_img/about.png)
+- post
+![post](./readme_img/post1.png)
+![post result](./readme_img/result.png)
+- getinfo
+![getinfo](./readme_img/getinfo.png)
+
+
