@@ -1,7 +1,7 @@
 # TOC Project 2019
 TIMING BOT
 
-![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)]
 
 [Heroku version](https://github.com/ya-sin/timing-bot)(some bugs)
 
