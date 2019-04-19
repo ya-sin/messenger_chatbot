@@ -1,6 +1,8 @@
 # TOC Project 2019
 TIMING BOT
 
+![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
 [Heroku version](https://github.com/ya-sin/timing-bot)(some bugs)
 
 A Facebook messenger bot based on a finite state machine
