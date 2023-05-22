@@ -1,6 +1,6 @@
 bottle==0.12.13
 pygraphviz==1.5
-requests==2.20.1
+requests==2.31.0
 transitions==0.6.9
 firebase-admin==2.14.0
 google-api-core==1.6.0
